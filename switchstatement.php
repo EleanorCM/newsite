@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>PHP Primer - Switch Statements</title>
-</head>
-<body>
+   
+   <?php 
+        $title = "Switch Statements";
+        include 'includes/header.php' 
+    ?>
     <h1>Switch Statements</h1>
     <?php
     $grade = 'c';
